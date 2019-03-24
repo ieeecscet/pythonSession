@@ -16,7 +16,7 @@ Use the following commands to install python
 
 
 ### macOS
-We can install python using the following commands
+We can install python using the following commands <br/>
 > brew install python3
 
 ### Python online interpreters 
