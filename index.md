@@ -6,4 +6,4 @@
 
 1. Go to Python's official page, [python.org](http://python.org) and go for the download page for [Windows](https://www.python.org/downloads/windows/) .
 2. Go for the Latest Python release - Python 3.x.y page and download the <b>Windows x86-64 executable installer</b> for 64 bit/32 bit as per system requirements.  
-3. Run the installer to install python. <i> You want to be sure to check the box that says Add Python 3.x to PATH as shown to ensure that the interpreter will be placed in your execution path. </i>
+3. Run the installer to install python. `You want to be sure to check the box that says Add Python 3.x to PATH as shown to ensure that the interpreter will be placed in your execution path.` 
