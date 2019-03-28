@@ -22,4 +22,6 @@ We can install python using the following commands <br/>
 ### Python online interpreters 
 1. [Python.org shell](https://www.python.org/shell/)
 
+## Pip Installation
+
 
