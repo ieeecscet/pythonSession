@@ -25,3 +25,9 @@ We can install python using the following commands <br/>
 ## Pip Installation
 
 
+## Jupyter Notebooks 
+
+The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
+(Follow this to install Jupyter Notebook in your system.)[https://jupyter.readthedocs.io/en/latest/install.html]
+
+
