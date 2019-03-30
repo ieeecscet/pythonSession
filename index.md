@@ -27,7 +27,7 @@ We can install python using the following commands <br/>
 
 ## Jupyter Notebooks 
 
-The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
+The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. <br/>
 [Follow this to install Jupyter Notebook in your system.](https://jupyter.readthedocs.io/en/latest/install.html)
 
 
