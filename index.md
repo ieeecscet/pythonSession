@@ -23,7 +23,11 @@ We can install python using the following commands <br/>
 1. [Python.org shell](https://www.python.org/shell/)
 
 ## Pip Installation
-
+### Linux
+Update the package list <br/>
+> sudo apt update <br/>
+Install pip using the following command <br/>
+> sudo apt install python3-pip <br/>
 
 ## Jupyter Notebooks 
 
