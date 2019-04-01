@@ -45,6 +45,9 @@ Then run the following <br/>
 The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. <br/>
 [Follow this to install Jupyter Notebook in your system.](https://jupyter.readthedocs.io/en/latest/install.html)
 
+## Session Notes : 
+You can access notes of this session from [here](https://github.com/ieeecscet/pythonSession/blob/master/Python%20Tutorial.ipynb) .
+
 ## References 
 Check out [this repo](https://github.com/abhijithneilabraham/Python-tutorial-for-beginners) for a detailed tutorial. <br/>
 [Python 3 Documentation](https://docs.python.org/3/)
