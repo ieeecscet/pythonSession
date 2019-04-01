@@ -26,8 +26,19 @@ We can install python using the following commands <br/>
 ### Linux
 Update the package list <br/>
 > sudo apt update <br/>
+
 Install pip using the following command <br/>
+
 > sudo apt install python3-pip <br/>
+
+### Windows
+Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) <br/>
+> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+Then run the following <br/>
+> python get-pip.py <br/>
+
+
 
 ## Jupyter Notebooks 
 
