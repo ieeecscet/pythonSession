@@ -46,4 +46,5 @@ The Jupyter Notebook is a web application that allows you to create and share do
 [Follow this to install Jupyter Notebook in your system.](https://jupyter.readthedocs.io/en/latest/install.html)
 
 ## References 
-Check out [this repo](https://github.com/abhijithneilabraham/Python-tutorial-for-beginners) for a detailed tutorial
+Check out [this repo](https://github.com/abhijithneilabraham/Python-tutorial-for-beginners) for a detailed tutorial.
+[Python 3 Documentation](https://docs.python.org/3/)
