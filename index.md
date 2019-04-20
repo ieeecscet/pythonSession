@@ -51,3 +51,4 @@ You can access notes of this session from [here](https://github.com/ieeecscet/py
 ## References 
 Check out [this repo](https://github.com/abhijithneilabraham/Python-tutorial-for-beginners) for a detailed tutorial. <br/>
 [Python 3 Documentation](https://docs.python.org/3/)
+[Python Tutorial by Hackerrank](https://www.hackerearth.com/practice/python/getting-started/input-and-output/tutorial/)
